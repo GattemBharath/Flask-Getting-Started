@@ -1,0 +1,5 @@
+[
+  { "question": "Goodbye (informal)", "answer": "\u041f\u043e\u043a\u0430" },
+  { "question": "<p onclick=\"alert(\"click me!\")\"></p>", "answer": "..." },
+  { "question": "HI", "answer": "user" }
+]
